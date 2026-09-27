@@ -7,7 +7,11 @@ Editing this copy is reverted by the next run. Edit the source.
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Coda-Research-Group/brand/main/logo/png/coda-lockup-horizontal-512.png" alt="CODA, Complex Data Research Group" width="360">
+  <!-- Served from the .github repository, not from brand. brand is private,
+       so raw.githubusercontent.com answers 404 to anyone not signed in and
+       the profile renders a broken image to every visitor. The publisher
+       uploads this file alongside the README. -->
+  <img src="https://raw.githubusercontent.com/Coda-Research-Group/.github/main/profile/coda-lockup.png" alt="CODA, Complex Data Research Group" width="360">
 </p>
 
 # CODA
