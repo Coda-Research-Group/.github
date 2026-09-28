@@ -11,24 +11,21 @@ Editing this copy is reverted by the next run. Edit the source.
        so raw.githubusercontent.com answers 404 to anyone not signed in and
        the profile renders a broken image to every visitor. The publisher
        uploads this file alongside the README. -->
-  <img src="https://raw.githubusercontent.com/Coda-Research-Group/.github/main/profile/coda-lockup.png" alt="CODA, Complex Data Research Group" width="360">
+  <a href="https://disa.fi.muni.cz/complex-data-analysis"><img src="https://raw.githubusercontent.com/Coda-Research-Group/.github/main/profile/coda-lockup.png" alt="CODA, Complex Data Research Group" width="360"></a>
 </p>
 
 # CODA
 
-<!-- tokens/coda.json name.tagline_display: the form without the full stop,
-     because here the line stands alone rather than sitting among sentences. -->
-**We find patterns in data and mine information from complexity**
+<!-- tokens/coda.json name.tagline: the punctuated form, because the paragraph
+     below continues it and the line reads as a sentence on a web page. -->
+**We find patterns in data and mine information from complexity.**
 
 A protein structure, a mass spectrum, a molecular dynamics trajectory: the
 only way to relate two of them is to measure how similar they are, and that
 measurement is the expensive part. We build the indexes that make searching
 collections like these possible, and the services that run on them.
 
-[CODA](https://disa.fi.muni.cz/complex-data-analysis) is the Complex Data
-research group at the **Faculty of Informatics, Masaryk University**.
-
-## What we run
+## What we build
 
 | | | |
 | --- | --- | --- |
